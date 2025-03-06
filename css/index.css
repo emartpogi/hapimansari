@@ -59,7 +59,7 @@
 /* Terapkan animasi dengan delay */
 .title span {
   opacity: 0;
-  animation: typing .5s ease forwards;
+  animation: typing 2s ease forwards;
   animation-delay: var(--delay);
 }
 
